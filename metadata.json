@@ -1,0 +1,6 @@
+{
+  "name": "Google Sheets Column Updater",
+  "description": "An app that allows finding a row by ID in Google Sheets and updating specific columns with chosen values.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
